@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadylan
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Vue.js & PHP
+- 👀 I’m interested by learning programming
+- 🌱 J'apprends et je travaille actuellement avec Vue.js & PHP
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : dylan.han82@gmail.com
 
