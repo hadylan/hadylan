@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : dylan.han82@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadylan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadylan&show_icons=true&theme=dark)
 
 <!---
 hadylan/hadylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
