@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadylan&show_icons=true&theme=tokyonight)
- I don't have many commits because I mainly work on projects that don't belong to me
+
+I don't have many commits because I mainly work on projects that don't belong to me
 
 - 👋 Hi, I’m @hadylan
 - 👀 I’m interested by learning programming
